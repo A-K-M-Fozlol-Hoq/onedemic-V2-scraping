@@ -4,8 +4,13 @@ https://www.mbamcq.com/behavioural-and-allied-sciences/ -> 'behavioural-and-alli
 https://www.mbamcq.com/brand-management/ -> 'brand-management'
 https://www.mbamcq.com/business-communication/ -> business-communication', 'business-network'
 https://www.mbamcq.com/business-economics/ -> 'business-economics'
-
-
+https://www.mbamcq.com/business-environment/ -> 'business-environment','marketplace'
+https://www.mbamcq.com/business-ethics-and-governance/ -> 'business-ethics-and-governance'
+https://www.mbamcq.com/business-law/ -> 'business-law','business-principles'
+https://www.mbamcq.com/business-mathematics/ -> 'business-mathematics'
+https://www.mbamcq.com/business-statistics/ -> 'business-statistics' ,'statistics'
+https://www.mbamcq.com/computers-in-management/ -> 'computers-in-management','information-technology'
+https://www.mbamcq.com/cost-and-managerial-accounting/ -> 'cost-and-managerial-accounting','accounting'
 
 
 
@@ -18,13 +23,6 @@ https://www.mbamcq.com/business-economics/ -> 'business-economics'
 
 
 todo: 
-https://www.mbamcq.com/business-environment/ -> 'behavioural-environment','marketplace'
-https://www.mbamcq.com/business-ethics-and-governance/ -> 'business-ethics-and-governance'
-https://www.mbamcq.com/business-law/ -> 'business-law','business-principles'
-https://www.mbamcq.com/business-mathematics/ -> 'business-mathematics'
-https://www.mbamcq.com/business-statistics/ -> 'business-statistics' ,'statistics'
-https://www.mbamcq.com/computers-in-management/ -> 'computers-in-management','information-technology'
-https://www.mbamcq.com/cost-and-managerial-accounting/ -> 'cost-and-managerial-accounting','accounting'
 https://www.mbamcq.com/e-business/ - > 'e-business', 'e-commerce'
 https://www.mbamcq.com/english-language/ -> 'english-language', 'english'
 https://www.mbamcq.com/entrepreneurship-management/ -> 'entrepreneurship-management', 
